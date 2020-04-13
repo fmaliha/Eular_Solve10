@@ -1,0 +1,6 @@
+c:\users\anika\documents\visual studio 2013\Projects\10sumofprimes\10sumofprimes\bin\Debug\10sumofprimes.exe.config
+c:\users\anika\documents\visual studio 2013\Projects\10sumofprimes\10sumofprimes\bin\Debug\10sumofprimes.exe
+c:\users\anika\documents\visual studio 2013\Projects\10sumofprimes\10sumofprimes\bin\Debug\10sumofprimes.pdb
+c:\users\anika\documents\visual studio 2013\Projects\10sumofprimes\10sumofprimes\obj\Debug\10sumofprimes.csprojResolveAssemblyReference.cache
+c:\users\anika\documents\visual studio 2013\Projects\10sumofprimes\10sumofprimes\obj\Debug\10sumofprimes.exe
+c:\users\anika\documents\visual studio 2013\Projects\10sumofprimes\10sumofprimes\obj\Debug\10sumofprimes.pdb
